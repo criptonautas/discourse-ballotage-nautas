@@ -4,7 +4,7 @@
 # about: Secret black/white-ball ballots (ballotage) for a member group, with participation oversight
 # version: 1.1.0
 # authors: DaniW42 — Forked by Criptonautas
-# url: https://github.com/somos-criptonautas/discourse-ballotage-nautas
+# url: https://github.com/criptonautas/discourse-ballotage-nautas
 # required_version: 2026.7.0
 
 enabled_site_setting :ballotage_enabled

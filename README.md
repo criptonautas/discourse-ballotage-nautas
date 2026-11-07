@@ -4,12 +4,12 @@
 
 Maintained by Criptonautas. Not affiliated with or endorsed by Discourse (Civilized Discourse Construction Kit, Inc.).
 
-[![Discourse Plugin](https://github.com/somos-criptonautas/discourse-ballotage-nautas/actions/workflows/discourse-plugin.yml/badge.svg)](https://github.com/somos-criptonautas/discourse-ballotage-nautas/actions/workflows/discourse-plugin.yml)
+[![Discourse Plugin](https://github.com/criptonautas/discourse-ballotage-nautas/actions/workflows/discourse-plugin.yml/badge.svg)](https://github.com/criptonautas/discourse-ballotage-nautas/actions/workflows/discourse-plugin.yml)
 [![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 [![Discourse 2026.7+](https://img.shields.io/badge/Discourse-2026.7%2B-blue?logo=discourse)](https://www.discourse.org/)
 
 > **This is a fork** of [DaniW42/discourse-ballotage](https://github.com/DaniW42/discourse-ballotage)
-> by DaniW42, maintained by [Criptonautas](https://github.com/somos-criptonautas). All credit
+> by DaniW42, maintained by [Criptonautas](https://github.com/criptonautas). All credit
 > for the original design and implementation goes to them — see the upstream
 > [Meta topic](https://meta.discourse.org/t/ballotage-secret-black-white-ball-ballots/413266).
 > Please report issues with this fork here, not upstream.
@@ -177,7 +177,7 @@ hooks:
     - exec:
         cd: $home/plugins
         cmd:
-          - git clone https://github.com/somos-criptonautas/discourse-ballotage-nautas.git
+          - git clone https://github.com/criptonautas/discourse-ballotage-nautas.git
 ```
 
 ```bash

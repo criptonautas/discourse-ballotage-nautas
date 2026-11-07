@@ -5,7 +5,7 @@
 Mantenido por Criptonautas. Sin afiliación ni respaldo de Discourse (Civilized Discourse Construction Kit, Inc.).
 
 > Fork de [DaniW42/discourse-ballotage](https://github.com/DaniW42/discourse-ballotage),
-> mantenido por [Criptonautas](https://github.com/somos-criptonautas). La documentación
+> mantenido por [Criptonautas](https://github.com/criptonautas). La documentación
 > completa (incluidas las diferencias con el original) está en [inglés](README.md).
 
 Plugin de Discourse para **votaciones secretas** entre miembros: **admisiones** con bolas
