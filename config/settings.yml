@@ -13,9 +13,6 @@ plugins:
   ballotage_info_text:
     default: ""
     textarea: true
-  ballotage_sidebar_section:
-    default: ""
-    client: true
   ballotage_timezone:
     default: ""
     type: enum
